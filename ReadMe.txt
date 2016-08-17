@@ -1,19 +1,21 @@
 #################################################
-###             TorrentStrike V0.4              #
-###              April 16th 2006                #
-###            www.torrentstrike.com            #
+###             TorrentStrike V0.4            ###
+###               Jan 16th 2008               ###
 #################################################
-
+## This actual source is only test files for a ##
+## CVS Transfer Test so files might be missing ##
+## from this source!                           ##
+#################################################
 
 This Release (V0.4) contains:
 
-- The last TBDev portal taken from CVS (April 15th 2006)
-- Phpbb 2.0.20 with user and graphical integration for TBDev
+- The last XTBDev portal taken from CVS (2008)
+- Phpbb 2.0.20 with user and graphical integration for XTBDev
 - ICGstation template for phpbb
 - A little sample avatar gallery for phpbb
-- Graphical theme system for TBDev
-- ICGstation theme for TBDev
-- Default theme for TBDev
+- Graphical theme system for XTBDev
+- ICGstation theme for XTBDev
+- Default theme for XTBDev
 - A lot of added hack.
 - A lot of bugfixes.
 
@@ -25,7 +27,7 @@ This Release (V0.4) contains:
 
 - BugID#4 Spacer.gif problems when not installed on localhost
 - BugID#5 Smilies don't displayed in phpbb admin panel
-- BugID#6 Hardcoded html removed from TBDev (It's only 50% done for now...)
+- BugID#6 Hardcoded html removed from XTBDev (It's only 50% done for now...)
 - BugID#9 Installation of phpbb failed when installed from xampp 1.5.1 on windows
 
 
@@ -190,7 +192,7 @@ Files or folder to chmod:
   - chmod 666 your cache/staff.txt
 
 
--3- Setting up TBDev :
+-3- Setting up TorrentStrike :
 ----------------------
 
 open your web browser to http://www.yourdomain.com/admincp.php
@@ -201,7 +203,7 @@ Keep the 'Activate PhpBB Forum' box unchecked for now !
 After saving your config, the install will install the needed sql files for you.
 
 
--4- Create a TBDev sysop account:
+-4- Create a TorrentStrike sysop account:
 --------------------------------
 
 open your web browser to http://www.yourdomain.com and choose Register
@@ -278,9 +280,3 @@ and keep trace of what you need to report in the new V0.4 files after upgrading.
 If you need support for this king of problem, be careful: 
 Half of the users patch the code everywhere and simply don't know what they're doing !
 We have no mercy for them: So double check what you're doing before asking help...
-
-
-------------------------------------------
-Send us your comments, bugs, hacks, ideas:
-www.torrentstrike.com
-------------------------------------------
